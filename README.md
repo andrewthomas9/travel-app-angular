@@ -1,6 +1,6 @@
-# Travel Agency App 🌍
+# Travel App 🌍
 
-Welcome to the Travel Agency App repository! This Angular project, integrated with Firebase, allows users to explore, book, and review exciting travel trips. With authentication, role-based access control, and admin panels, managing trips and user interactions is made easy.
+Welcome to the Travel App repository! This Angular project, integrated with Firebase, allows users to explore, book, and review exciting travel trips. With authentication, role-based access control, and admin panels, managing trips and user interactions is made easy.
 
 ## Features ✨
 
@@ -17,7 +17,7 @@ Welcome to the Travel Agency App repository! This Angular project, integrated wi
 
 ## Live Demo 🌐
 
-Check out the live demo of the Travel Agency App [here](https://fifus17.github.io/Travel-Agency-App/). To access trips view you need to be logged in.
+Check out the live demo of the Travel App [here](https://fifus17.github.io/Travel-Agency-App/). To access trips view you need to be logged in.
 
 ## Screenshots 📷
 
