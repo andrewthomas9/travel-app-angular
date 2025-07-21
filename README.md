@@ -17,7 +17,7 @@ Welcome to the Travel App repository! This Angular project, integrated with Fire
 
 ## Live Demo 🌐
 
-Check out the live demo of the Travel App [here](https://fifus17.github.io/Travel-Agency-App/). To access trips view you need to be logged in.
+Check out the live demo of the Travel App. To access trips view you need to be logged in.
 
 ## Screenshots 📷
 
